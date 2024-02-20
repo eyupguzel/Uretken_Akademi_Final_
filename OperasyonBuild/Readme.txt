@@ -1,0 +1,2 @@
+Rusya,Türkiye'nin elinde bulunan ileri teknoloji savunma projelerini ajanlar ile ele geçirmiştir.Türkiye için oldukça önemli olan bu projeleri geri alması için özel yetiştirilmiş bir ajan görevlendirilir ve yola koyulur. 
+(Oyunda Youtube'a yüklenilen videodan daha farklı bir görünüm var bunun nedeni 'sharedassets1.assets.resS' adlı dosyanın 100mb'dan fazla olması ve bundan dolayı da GitHub'a yükleyememden kaynaklanıyor.Bu boyutu düşürmek için mecburiyetten ufak tefek değişiklikler yaptım.)
